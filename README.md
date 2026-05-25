@@ -18,7 +18,7 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 
 - Currently a **Project Intern at IIT Roorkee**, working on an **SDR-based 2T2R MIMO implementation of LoRa** using Adalm-Pluto SDRs — building PHY-layer pipelines to evaluate spatial-diversity gains over standard single-antenna LoRa links.
 - Previously interned at IIT Roorkee on **BLE Angle-of-Arrival** localization using the u-blox XPLR-AoA-3, achieving sub-metre angle detection.
-- I deployed the **12th public TTN LoRa gateway in India** on custom hardware as part of a smart-agriculture project (presented at VDAT 2024).
+- I was part of the team that  deployed the **12th public TTN LoRa gateway in India** on custom hardware as part of a smart-agriculture project (presented at VDAT 2024).
 - Won **1st place at VDAT 2024**, **Top 10 nationally at VLSID 2025** (NXP track), and a few hackathons along the way.
 - Daily-driver Linux user — most of my side projects are CLI tools, dotfiles, and home-lab tinkering on a Raspberry Pi 5.
 
