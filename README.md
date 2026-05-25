@@ -58,4 +58,4 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 - **TechKriti 2025 @ IIT Kanpur** — Runner-up, AI Financial Analysis Tool
 
 ---
-<p align="center"><sub>Open to collaborations on SDR, FPGA, RF, and embedded-systems projects — feel free to reach out.</sub></p>
+<p align="center"><sub>Open to collaborations on SDR, FPGA, Bash, Linux based  and Embedded-Systems projects — feel free to reach out.</sub></p>
