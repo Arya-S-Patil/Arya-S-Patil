@@ -26,11 +26,11 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 
 ### What I work with
 
-**Hardware** &nbsp; Adalm-Pluto SDR · Xilinx Arty S7 · STM32 H7 · NXP MXRT117H · Microchip SAMR34 · ESP32-S3 · Raspberry Pi 5 · u-blox XPLR-AoA-3 · Elecrow LoRa SX1302
+**Hardware** &nbsp; Adalm-Pluto SDR · Xilinx PYNQ-Z2 · STM32 H7 · nRF5340 . nRF5284 NXP MXRT117H  · ESP32-S3 · Raspberry Pi 5 · U-blox XPLR-AoA-3 · Raspberry Pico 2w . LoRa Nodes (RAK, Elecrow) 
 
 **Languages** &nbsp; ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-1A1A1A?style=flat) ![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat&logo=gnu-bash&logoColor=black) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-**Tools** &nbsp; GNU Radio · Vivado · Cadence Virtuoso · MATLAB/Simulink · ModelSim · STM32CubeIDE · Keil µVision · Flask · Firebase · InfluxDB · TTN
+**Tools** &nbsp; GNU Radio · Vivado · Cadence Virtuoso · MATLAB/Simulink · ModelSim · STM32CubeIDE · Keil µVision · Flask · Firebase · InfluxDB · TTN . Cadence Toolchain for ASIC Development
 
 ---
 
@@ -44,18 +44,6 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 | [**DiamondDrive**](https://github.com/HS-246/DiamondDrive) | **Hardware password manager** on Xilinx Arty S7 with full on-chip **AES-128** encryption — no software cryptography, no side-channel leakage. |
 | [**Split-Radix FFT**](https://github.com/ishanurg/HardwareAccelerated-Split-Radix-FFT-Algorithm) | Hardware-accelerated **Split-Radix FFT** implementation. |
 | [**disk_tool**](https://github.com/Arya-S-Patil/disk_tool) | Interactive CLI for identifying, formatting, and creating **bootable USB drives** on Linux. |
-
----
-
-### Highlights
-
-- **VDAT 2024** — 1st place, VLSI Design Contest (₹15,000)
-- **VLSID 2025** — Top 10 nationally, NXP "Smart Assistive Device for the Visually Impaired"
-- **AMD Open Hardware** — featured on official results page
-- **HackBattle** — Winner (₹30,600) for Smart NAS
-- **Code4Change 2024** — Winner (₹25,000) for EduSphere (AI + AR/VR)
-- **IoT-thon 2024** — 2nd, Sustainable Agriculture track
-- **TechKriti 2025 @ IIT Kanpur** — Runner-up, AI Financial Analysis Tool
 
 ---
 <p align="center"><sub>Open to collaborations on SDR, FPGA, Bash, Linux based  and Embedded-Systems projects — feel free to reach out.</sub></p>
