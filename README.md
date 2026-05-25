@@ -58,14 +58,4 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 - **TechKriti 2025 @ IIT Kanpur** — Runner-up, AI Financial Analysis Tool
 
 ---
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arya-S-Patil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-S-Patil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
----
-
 <p align="center"><sub>Open to collaborations on SDR, FPGA, RF, and embedded-systems projects — feel free to reach out.</sub></p>
