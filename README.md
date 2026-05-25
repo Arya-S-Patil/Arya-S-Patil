@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:aryasadanand.patil2022@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/arya-patil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/arya-sadanand-patil-2a8366330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=Arya-S-Patil&style=flat&color=blue" alt="Profile views"/>
 </p>
 
