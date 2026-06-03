@@ -26,7 +26,7 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 
 ### What I work with
 
-**Hardware** &nbsp; Adalm-Pluto SDR · Xilinx PYNQ-Z2 · STM32 H7 · nRF5340 . nRF5284 NXP MXRT117H  · ESP32-S3 · Raspberry Pi 5 · U-blox XPLR-AoA-3 · Raspberry Pico 2w . LoRa Nodes (RAK, Elecrow) 
+**Hardware** &nbsp; Adalm-Pluto SDR · Xilinx PYNQ-Z2 · STM32 H7 · nRF5340 . nRF5284 .  NXP MXRT117H  · ESP32-S3 · Raspberry Pi 5 · U-blox XPLR-AoA-3 · Raspberry Pico 2w . LoRa Nodes (RAK, Elecrow) 
 
 **Languages** &nbsp; ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-1A1A1A?style=flat) ![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat&logo=gnu-bash&logoColor=black) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
