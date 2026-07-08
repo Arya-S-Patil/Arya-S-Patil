@@ -16,9 +16,8 @@
 
 I'm a final-year **Electronics and Communication Engineering** student at **VIT** (CGPA 8.85/10), spending most of my time at the intersection of **radio, embedded hardware, and signal processing**.
 
-- Currently a **Project Intern at IIT Roorkee**, working on an **SDR-based 2T2R MIMO implementation of LoRa** using Adalm-Pluto SDRs — building PHY-layer pipelines to evaluate spatial-diversity gains over standard single-antenna LoRa links.
+- Currently a **Project Intern at IIT Roorkee**, working on an **Design and Implementation of an ADALM-Pluto SDR Testbed for LoRa Angle-of-Arrival Estimation** 
 - Previously interned at IIT Roorkee on **BLE Angle-of-Arrival** localization using the u-blox XPLR-AoA-3, achieving sub-metre angle detection.
-- I was part of the team that  deployed the **12th public TTN LoRa gateway in India** on custom hardware as part of a smart-agriculture project (presented at VDAT 2024).
 - Won **1st place at VDAT 2024**, **Top 10 nationally at VLSID 2025** (NXP track), and a few hackathons along the way.
 - Daily-driver Linux user — most of my side projects are CLI tools, dotfiles, and home-lab tinkering on a Raspberry Pi 5.
 
@@ -38,7 +37,7 @@ I'm a final-year **Electronics and Communication Engineering** student at **VIT*
 
 | Project | What it is |
 |---|---|
-| [**gr-lora_sdr-2r2t**](https://github.com/Arya-S-Patil/gr-lora_sdr-2r2t) | GNU Radio implementation of a **2T2R MIMO LoRa transceiver** — extending LoRa range using spatial diversity over multiple antennas. *(Ongoing @ IIT Roorkee)* |
+| [**gr-lora_sdr-2r2t**](https://github.com/Arya-S-Patil/AoA_LoRa) | GNU Radio implementation of a **Design and Implementation of an ADALM-Pluto SDR Testbed for LoRa Angle-of-Arrival Estimation** — exusing both 2 Adalm plutos (Sender and Receiver) and 1 pluto(Receiver) and 1 RAK3112 Module (Transmitter). *|
 | [**CSI_Analysis**](https://github.com/Arya-S-Patil/CSI_Analysis) | End-to-end **Channel State Information** collection and logging pipeline using ESP32 + Raspberry Pi 5, built for CSI-based sensing and localization research. |
 | [**Position_Engine**](https://github.com/Arya-S-Patil/Position_Engine) | Real-time **BLE Angle-of-Arrival** logging and visualization for the u-blox XPLR-AoA-3 platform — sub-metre indoor positioning. |
 | [**DiamondDrive**](https://github.com/HS-246/DiamondDrive) | **Hardware password manager** on Xilinx Arty S7 with full on-chip **AES-128** encryption — no software cryptography, no side-channel leakage. |
