@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Arya 👋</h1>
+<h1 align="center">Hi, I'm Arya Sadanand Patil 👋</h1>
 
 <p align="center">
   <em>ECE @ VIT &nbsp;·&nbsp; SDR · LoRa · FPGA · Embedded Systems</em>
 </p>
 
 <p align="center">
-  <a href="mailto:aryasadanand.patil2022@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:aryaspatil24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/arya-sadanand-patil-2a8366330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=Arya-S-Patil&style=flat&color=blue" alt="Profile views"/>
 </p>
@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a final-year **Electronics and Communication Engineering** student at **VIT** (CGPA 8.85/10), spending most of my time at the intersection of **radio, embedded hardware, and signal processing**.
+I'm a BTech **Electronics and Communication Engineering** from **VIT Vellore** (CGPA 8.85/10), spending most of my time at the intersection of **radio, embedded hardware, and signal processing**.
 
 - Currently a **Project Intern at IIT Roorkee**, working on an **Design and Implementation of an ADALM-Pluto SDR Testbed for LoRa Angle-of-Arrival Estimation** 
 - Previously interned at IIT Roorkee on **BLE Angle-of-Arrival** localization using the u-blox XPLR-AoA-3, achieving sub-metre angle detection.
