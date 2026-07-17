@@ -37,7 +37,7 @@ I'm a BTech **Electronics and Communication Engineering** from **VIT Vellore** (
 
 | Project | What it is |
 |---|---|
-| [**AoA_LoRa**](https://github.com/Arya-S-Patil/AoA_LoRa) | GNU Radio implementation of a **Design and Implementation of an ADALM-Pluto SDR Testbed for LoRa Angle-of-Arrival Estimation** — exusing both 2 Adalm plutos (Sender and Receiver) and 1 pluto(Receiver) and 1 RAK3112 Module (Transmitter). *|
+| [**AoA_LoRa**](https://github.com/Arya-S-Patil/AoA_LoRa) | GNU Radio implementation of a **Design and Implementation of an ADALM-Pluto SDR Testbed for LoRa Angle-of-Arrival Estimation** — exusing both 2 Adalm plutos (Sender and Receiver) and 1 pluto(Receiver) and 1 RAK3112 Module (Transmitter). |
 | [**CSI_Analysis**](https://github.com/Arya-S-Patil/CSI_Analysis) | End-to-end **Channel State Information** collection and logging pipeline using ESP32 + Raspberry Pi 5, built for CSI-based sensing and localization research. |
 | [**Position_Engine**](https://github.com/Arya-S-Patil/Position_Engine) | Real-time **BLE Angle-of-Arrival** logging and visualization for the u-blox XPLR-AoA-3 platform — sub-metre indoor positioning. |
 | [**DiamondDrive**](https://github.com/HS-246/DiamondDrive) | **Hardware password manager** on Xilinx Arty S7 with full on-chip **AES-128** encryption — no software cryptography, no side-channel leakage. |
